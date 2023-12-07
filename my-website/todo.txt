@@ -1,0 +1,87 @@
+# personal website-
+
+Project Description-
+The goal of this project is to create a personal website that showcases my skills, experiences, and interests, providing relevant information about me and my background.
+Built entirely with HTML and CSS.
+
+Features-
+- A hero section that provides a brief introduction to me and my background.
+- A resume page that lists my education, work experience, skills, and other relevant information (can add link to the project).
+- A section that showcases any projects or work that i have done in the past.
+- An about me section that provides additional information about me and my interests.
+- A contact me section that includes information for users to get in touch with me.
+
+Deliverables-
+- One HTML file for the structure of the website
+- One CSS file for the styling of the website
+- Any additional assets (e.g. images) used in the website
+
+Timeline-
+Hour 1: Gather content and design ideas, create wireframes and mockups.
+Hour 2-3: Develop HTML structure and CSS styling, test on different devices and browsers.
+Hour 4: Finalize design and content, make any necessary revisions, optimize for performance.
+Hour 5: Launch the website and share it.
+
+
+
+
+
+# Text:
+
+* Hero section (provides brief introduction to me and my background)-
+Hey there! 👋 I'm a Full-Stack developer with a BSc in Computer Science. 
+I love diving into the realms of JavaScript, Java, HTML, CSS, React, Node.js, and MongoDB.
+With a solid foundation in C++, OOP, and the intricate world of data structures and algorithms,
+I'm on a mission. Each day is a chance to get better, learn more, and make a mark on the world. Driven by an insatiable desire to succeed, I'm here to create something extraordinary! Let's build big things together! 🚀
+
+
+
+
+* Resume page-
+My education-
+Bachelor degree in Computer science, The College of Management Academic Studies. Full-Stack Specialization, GPA 85.
+
+Skills-
+Programming Languages: JavaScript, Java, C++, C, SQL.
+Web Development: HTML, CSS, React, Node.js, Bootstrap.
+Databases: SQL server, MySQL, MongoDB, Mongoose, Firebase.
+Front-End & Back-End Development: UI design, APIs, and database management.
+Algorithms & Data Structures.
+
+
+
+
+
+* My projects section-
+Projects-
+- Anastacia, E-commerce Website (JavaScript, React, HTML, CSS, MongoDB, Node.js)-
+Developed a full-featured e-commerce website. Features include user registration, MongoDB and Firebase integration, cart, reviews, secure PayPal payments, and user/admin actions.
+
+- Wallety, Financial Management Android App (Java, Android)-
+Implemented Java functionalities and designed UI in 'Wallety' Android app, using Android Studio. Server-side development with Node.js and data management via Firebase.
+
+- My Recipe Book, Recipe Book Android App (Java, Android)-
+Developed a Recipe Book Android application using Java, implementing the MVVM architecture and utilizing the Firebase.
+
+
+
+
+* About me section-
+Interests-
+- Weight Training:
+I'm captivated by weight training—it's more than just lifting; it's a journey of overcoming challenges. The rush, progress, and setting goals keep me fully engaged. It's not just about muscles; it's about discipline, patience, dedication, and building character. Coming from 13 years of ballet, I seamlessly transitioned into weight training at the age of 16, and it's been my passion ever since.
+
+- Aerobics: Stair Training/Running/Dancing:
+Aerobics, with stairs, running, and dancing, is my happy place. It's not just exercise; it's where I find clarity and a refreshing escape. The joy of movement and the relaxed feeling post-workout make it a vital part of my routine, recharging my energy and lifting my mood.
+
+- Healthy Lifestyle:
+Beyond workouts, I'm into healthy living. I love exploring nutritious recipes and understanding how our bodies work. It's not just a habit; it's a constant quest for knowledge. I'm into mindfulness, digging into brain intricacies, positive thinking, and strategies for a winning mindset. Always exploring and experimenting, I enjoy sharing the secrets of well-being.
+
+
+
+
+* Contact me section-
+get in touch with me:
+shanibider@gmail.com
+https://www.linkedin.com/in/shani-bider-0848b8177/
+https://github.com/shanibider
