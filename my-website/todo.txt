@@ -53,15 +53,46 @@ Algorithms & Data Structures.
 
 
 * My projects section-
-Projects-
-- Anastacia, E-commerce Website (JavaScript, React, HTML, CSS, MongoDB, Node.js)-
-Developed a full-featured e-commerce website. Features include user registration, MongoDB and Firebase integration, cart, reviews, secure PayPal payments, and user/admin actions.
 
-- Wallety, Financial Management Android App (Java, Android)-
-Implemented Java functionalities and designed UI in 'Wallety' Android app, using Android Studio. Server-side development with Node.js and data management via Firebase.
+- Anastacia Website - Ecommerce Platform:
+   Anastacia is a feature-rich ecommerce website designed for a seamless shopping experience. The frontend, developed using JavaScript and React, includes components, props, events, hooks, and routing for a dynamic user interface. The backend, powered by Node.js, interacts with MongoDB and Firebase databases to enable secure user registration, login, and data storage. The website boasts a shopping cart, a robust review system, categorized product listings, secure PayPal integration, and comprehensive admin functionalities for product and order management.
 
-- My Recipe Book, Recipe Book Android App (Java, Android)-
-Developed a Recipe Book Android application using Java, implementing the MVVM architecture and utilizing the Firebase.
+   Frontend Development:
+   - Languages: JavaScript, React, CSS3, HTML5.
+   - Libraries/Tools: React-bootstrap.
+   Backend Development:
+   - Language: Node.JS.
+   - Database: MongoDB (Mongoose for interaction).
+
+
+- Wallety - Android Expense Tracker Android App:
+Wallety is an Android app that demonstrates a mastery of fundamental Android development principles. Built using Java in Android Studio, it features intuitive layouts, activities, models, and fragments. Key functionalities include efficient expense tracking, seamless money transfers, goal-oriented savings tracking, and a task-based rewards system. The backend, developed in JavaScript and Node.js, adds robustness to the application, showcasing a comprehensive skill set in both frontend and backend development.
+ Technical Highlights:
+   - Frontend: Java for Android, JavaScript for backend.
+   - Development Tools:  Android Studio (frontend), Visual Studio Code (backend).
+   - Backend Architecture: Meticulously crafted backend using JavaScript and Node.js.
+
+
+
+- My Recipe Book - Android Recipe Organizer and Sharing App:
+"My Recipe Book" is a Java-based Android app developed in Android Studio, leveraging the Firebase Database for seamless data management. This user-friendly application serves as a centralized hub for users to store and categorize their favorite recipe, provides a practical solution for personal recipe organization and creates a social space for culinary enthusiasts to connect and share their passion for cooking.
+
+Key Features:
+- Effortless Recipe Management: Users can easily add, organize, and categorize their favorite recipes, providing a convenient way to access cooking instructions and ingredient lists.
+- Social Recipe Sharing: The app introduces a social aspect to cooking by allowing users to create profiles and share their own recipes with the community. When a user uploads a recipe, it becomes immediately visible to others, fostering a vibrant community of recipe enthusiasts.
+- Community Interaction: Users can explore and try recipes shared by others, creating an interactive and engaging cooking community. The platform encourages users of all skill levels to participate and discover new culinary creations.
+
+Technical Highlights:
+- Development Tools: Built using Java in Android Studio for frontend development.
+- Database Integration: Firebase Database for efficient and real-time data storage and retrieval.
+
+
+
+
+
+
+
+
 
 
 
