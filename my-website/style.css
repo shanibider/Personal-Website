@@ -1,4 +1,4 @@
- /* Custom styles for HEROES template */
+  /* Custom styles for HEROES template */
 .b-example-divider {
   height: 3rem;
   background-color: rgba(0, 0, 0, .1);
@@ -10,7 +10,6 @@
 @media (min-width: 992px) {
   .rounded-lg-3 { border-radius: .3rem; }
 }
-
 
 /* Custom styles for CAROUSEL template */
 /* MARKETING CONTENT-------------------------------------------------- */
@@ -29,17 +28,7 @@
   margin-left: .75rem;
   margin: 2rem 0;
   font-size: 1.05rem;
-
 }
-
-
-/*Matt addition-
-.has-text-primary {
-  color: #ff82a9 !important;
-}
-*/
-
-
 
 /* Featurettes------------------------- */
 .featurette-divider {
@@ -73,54 +62,45 @@
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
   color: #353434;
+  font-family: "eurostile", sans-serif;
+
 }
 
+h2{
+  font-family: "eurostile", sans-serif;
+}
 
-/*
 .icon-square {
     width: 3rem;
     height: 3rem;
     border-radius: 0.75rem;
   }
-  */
 
 
+/* Manuel Pinto CSS Gradient Background Animation */
+.gradient-background {
+  /*background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);*/
+  background: linear-gradient(300deg, #FFCAD4, #FFFFFF, #F4ACB7);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Matt Custom style-*/
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
@@ -135,7 +115,7 @@ body {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(239, 152, 209, 0.9);
+  background-color: rgba(255, 202, 212, 0.7);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -155,3 +135,10 @@ body {
   }
 }
 
+/*color platte-
+D8E2DC
+FFFFFF
+FFCAD4
+F4ACB7
+9D8189
+*/
