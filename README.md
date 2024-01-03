@@ -16,11 +16,6 @@ My portfolio website showcases my skills as a full-stack developer and features 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 
-
-### Preview:
-
-
-
 <br>
 
 ## 🔗 Connect with me 👩‍💻😊
