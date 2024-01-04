@@ -16,6 +16,11 @@ My portfolio website showcases my skills as a full-stack developer and features 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 
+### Preview:
+![1](https://github.com/shanibider/Personal-Website/assets/72359805/510cdf72-a473-45ec-9120-024603b6b529)
+![2](https://github.com/shanibider/Personal-Website/assets/72359805/e1f00b7b-e8d1-4d09-aa91-94d0e7287817)
+
+
 <br>
 
 ## 🔗 Connect with me 👩‍💻😊
